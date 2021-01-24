@@ -1,3 +1,2 @@
 # Google_Homepage
-
-Mock up of Google homepage.
+Live Preview: https://merrylarok.github.io/Google_Homepage/
